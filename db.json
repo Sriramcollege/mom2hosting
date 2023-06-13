@@ -6,7 +6,7 @@
             "price":"$998.00",
             "discount":"$1128.00",
             "rating":4,
-            "image_url":"https://i.ibb.co/fD4yvCr/image-33.png",
+            "image_url":"https://i.ibb.co/mRF2HfV/image-33.png",
             "total_order":154,
             "category":["Mobile accessory","Electronic","Smartphone","Mordren Tech"],
             "Brand":"apple",
@@ -23,7 +23,7 @@
             "price":"$998",
             "discount":"",
             "rating":5,
-            "image_url":"https://i.ibb.co/H4qbbyS/image-32.png",
+            "image_url":"https://i.ibb.co/YQk0qVd/image-32.png",
             "total_order":154,
             "category":["Mobile accessory","Electronic","Smartphone","Mordren Tech"],
             "Brand":"Samsung",
@@ -40,7 +40,7 @@
             "price":"$75",
             "discount":"",
             "rating":3,
-            "image_url":"https://i.ibb.co/fD4yvCr/image-33.png",
+            "image_url":"https://i.ibb.co/mRF2HfV/image-33.png",
             "total_order":154,
             "category":["Mobile accessory","Electronic","Smartphone","Mordren Tech"],
             "Brand":"Huawi",
@@ -57,7 +57,7 @@
             "price":"$125",
             "discount":"",
             "rating":2,
-            "image_url":"https://i.ibb.co/wLx4jWw/image-35.png",
+            "image_url":"https://i.ibb.co/LzjBLwp/image-35.png",
             "total_order":154,
             "category":["Mobile accessory","Electronics","Smartphones","Mordren Tech"],
             "Brand":"poco",
@@ -74,7 +74,7 @@
             "price":"$150",
             "discount":"$200",
             "rating":1,
-            "image_url":"https://i.ibb.co/JQ8rjp8/image-86.png",
+            "image_url":"https://i.ibb.co/9tkh0FW/image-86.png",
             "total_order":154,
             "category":["Mobile accessory","Electronics","Smartphones","Mordren Tech","Mobile Tech"],
             "Brand":"Lenovo",
@@ -176,7 +176,7 @@
             "price":"$998",
             "discount":"",
             "rating":5,
-            "image_url":"https://i.ibb.co/H4qbbyS/image-32.png",
+            "image_url":"https://i.ibb.co/YQk0qVd/image-32.png",
             "total_order":154,
             "category":["Mobile accessory","Electronic","Smartphone","Mordren Tech"],
             "Brand":"Samsung",
@@ -193,7 +193,7 @@
             "price":"$75",
             "discount":"",
             "rating":3,
-            "image_url":"https://i.ibb.co/fD4yvCr/image-33.png",
+            "image_url":"https://i.ibb.co/mRF2HfV/image-33.png",
             "total_order":154,
             "category":["Mobile accessory","Electronic","Smartphone","Mordren Tech"],
             "Brand":"Huawi",
@@ -210,7 +210,7 @@
             "price":"$125",
             "discount":"",
             "rating":2,
-            "image_url":"https://i.ibb.co/wLx4jWw/image-35.png",
+            "image_url":"https://i.ibb.co/LzjBLwp/image-35.png",
             "total_order":154,
             "category":["Mobile accessory","Electronic","Smartphone","Mordren Tech"],
             "Brand":"poco",
@@ -227,7 +227,7 @@
             "price":"$150",
             "discount":"$200",
             "rating":1,
-            "image_url":"https://i.ibb.co/JQ8rjp8/image-86.png",
+            "image_url":"https://i.ibb.co/9tkh0FW/image-86.png",
             "total_order":154,
             "category":["Mobile accessory","Electronic","Smartphone","Mordren Tech"],
             "Brand":"Lenovo",
@@ -244,7 +244,7 @@
             "price":"$56",
             "discount":"$170",
             "rating":5,
-            "image_url":"https://i.ibb.co/6Zjdg6G/image-34.png",
+            "image_url":"https://i.ibb.co/cT21PB2/image-34.png",
             "total_order":154,
             "category":["Mobile accessory","Electronic","Smartphone","Mordren Tech"],
             "Brand":"Asus",
@@ -290,8 +290,7 @@
             "manufacturers":"jio"
         }
 
-    ],
-    
+    ],   
 
     "mobile":[
         {"header":["Tablets","Phones","Ipad","Ipod","Headphone","tablets","phone","Tablets","Phones","Ipad","Ipod","Headphone","tablets","phone"]}
@@ -302,35 +301,35 @@
             "like_id":1,
             "product_name":"GoPro HERO6 4K",
             "price":"$998.00",
-            "image_url":"https://i.ibb.co/fD4yvCr/image-33.png"
+            "image_url":"https://i.ibb.co/mRF2HfV/image-33.png"
             
         },
         {
             "like_id":2,
             "product_name":"GoPro HERO6 4K",
             "price":"$998.00",
-            "image_url":"https://i.ibb.co/fD4yvCr/image-33.png"
+            "image_url":"https://i.ibb.co/mRF2HfV/image-33.png"
             
         },
         {
             "like_id":3,
             "product_name":"GoPro HERO6 4K",
             "price":"$998.00",
-            "image_url":"https://i.ibb.co/fD4yvCr/image-33.png"
+            "image_url":"https://i.ibb.co/mRF2HfV/image-33.png"
             
         },
         {
             "like_id":4,
             "product_name":"GoPro HERO6 4K",
             "price":"$998.00",
-            "image_url":"https://i.ibb.co/fD4yvCr/image-33.png"
+            "image_url":"https://i.ibb.co/mRF2HfV/image-33.png"
             
         },
         {
             "like_id":5,
             "product_name":"GoPro HERO6 4K",
             "price":"$998.00",
-            "image_url":"https://i.ibb.co/fD4yvCr/image-33.png"
+            "image_url":"https://i.ibb.co/mRF2HfV/image-33.png"
             
         }
 
