@@ -16,7 +16,7 @@
             "verified":"True",
             "featured":"True",
             "manufacturers":"jio",
-            "type":"phone"
+            "type":"phones"
         },
         {
             "product_id":2,
@@ -34,7 +34,7 @@
             "verified":"True",
             "featured":"False",
             "manufacturers":"celkon",
-            "type":"tablet"
+            "type":"Tablets"
         },
         {
             "product_id":3,
@@ -52,7 +52,7 @@
             "verified":"False",
             "featured":"True",
             "manufacturers":"karban mobiles",
-            "type":"phone"
+            "type":"Phones"
         },
         {
             "product_id":4,
@@ -70,7 +70,7 @@
             "verified":"True",
             "featured":"False",
             "manufacturers":"micromax",
-            "type":"watch"
+            "type":"Watch"
         },
         {
             "product_id":5,
@@ -88,7 +88,7 @@
             "verified":"False",
             "featured":"True",
             "manufacturers":"Xolo",
-            "type":"headphone"
+            "type":"Headphones"
         },
         {
             "product_id":6,
@@ -106,7 +106,7 @@
             "verified":"True",
             "featured":"False",
             "manufacturers":"jio",
-            "type":"laptop"
+            "type":"Laptop"
         },
         {
             "product_id":7,
@@ -124,7 +124,7 @@
             "verified":"False",
             "featured":"True",
             "manufacturers":"micromax",
-            "type":"phone"
+            "type":"Phones"
         },
         {
             "product_id":8,
@@ -142,7 +142,7 @@
             "verified":"True",
             "featured":"False",
             "manufacturers":"Xolo",
-            "type":"camera"
+            "type":"Camera"
         },
         {
             "product_id":9,
@@ -160,7 +160,7 @@
             "verified":"True",
             "featured":"True",
             "manufacturers":"jio",
-            "type":"phone"
+            "type":"Phones"
         },
         {
             "product_id":10,
@@ -178,7 +178,7 @@
             "verified":"True",
             "featured":"True",
             "manufacturers":"micromax",
-            "type":"phone"
+            "type":"Phones"
         },
         {
             "product_id":11,
@@ -196,7 +196,7 @@
             "verified":"True",
             "featured":"False",
             "manufacturers":"karban mobiles",
-            "type":"tablet"
+            "type":"Tablets"
         },
         {
             "product_id":12,
@@ -214,7 +214,7 @@
             "verified":"False",
             "featured":"Ture",
             "manufacturers":"lava",
-            "type":"phone"
+            "type":"phones"
         },
         {
             "product_id":13,
@@ -232,7 +232,7 @@
             "verified":"True",
             "featured":"False",
             "manufacturers":"lava",
-            "type":"watch"
+            "type":"Watch"
         },
         {
             "product_id":14,
@@ -250,7 +250,7 @@
             "verified":"False",
             "featured":"True",
             "manufacturers":"lava",
-            "type":"headphone"
+            "type":"Headphones"
         },
         {
             "product_id":15,
@@ -268,7 +268,7 @@
             "verified":"True",
             "featured":"False",
             "manufacturers":"micromax",
-            "type":"laptop"
+            "type":"Laptop"
         },
         {
             "product_id":16,
@@ -286,7 +286,7 @@
             "verified":"False",
             "featured":"True",
             "manufacturers":"karban mobiles",
-            "type":"phone"
+            "type":"Phones"
         },
         {
             "product_id":17,
@@ -304,13 +304,13 @@
             "verified":"True",
             "featured":"False",
             "manufacturers":"jio",
-            "type":"camera"
+            "type":"Camera"
         }
 
     ],   
 
     "mobile":[
-        {"header":["Tablets","Phones","Ipad","Ipod","Headphone","tablets","phone","Tablets","Phones","Ipad","Ipod","Headphone","tablets","phone"]}
+        {"header":["Tablets","Phones","Headphones","Camera","Laptop","Watch","Tablets","Phones","Headphones","Camera","Laptop"]}
     ],
 
     "like":[
