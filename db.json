@@ -15,7 +15,8 @@
             "detail":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
             "verified":"True",
             "featured":"True",
-            "manufacturers":"jio"
+            "manufacturers":"jio",
+            "type":"phone"
         },
         {
             "product_id":2,
@@ -32,7 +33,8 @@
             "detail":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
             "verified":"True",
             "featured":"False",
-            "manufacturers":"celkon"
+            "manufacturers":"celkon",
+            "type":"tablet"
         },
         {
             "product_id":3,
@@ -49,7 +51,8 @@
             "detail":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
             "verified":"False",
             "featured":"True",
-            "manufacturers":"karban mobiles"
+            "manufacturers":"karban mobiles",
+            "type":"phone"
         },
         {
             "product_id":4,
@@ -66,7 +69,8 @@
             "detail":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
             "verified":"True",
             "featured":"False",
-            "manufacturers":"micromax"
+            "manufacturers":"micromax",
+            "type":"watch"
         },
         {
             "product_id":5,
@@ -83,7 +87,8 @@
             "detail":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
             "verified":"False",
             "featured":"True",
-            "manufacturers":"Xolo"
+            "manufacturers":"Xolo",
+            "type":"headphone"
         },
         {
             "product_id":6,
@@ -100,7 +105,8 @@
             "detail":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
             "verified":"True",
             "featured":"False",
-            "manufacturers":"jio"
+            "manufacturers":"jio",
+            "type":"laptop"
         },
         {
             "product_id":7,
@@ -117,7 +123,8 @@
             "detail":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
             "verified":"False",
             "featured":"True",
-            "manufacturers":"micromax"
+            "manufacturers":"micromax",
+            "type":"phone"
         },
         {
             "product_id":8,
@@ -134,7 +141,8 @@
             "detail":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
             "verified":"True",
             "featured":"False",
-            "manufacturers":"Xolo"
+            "manufacturers":"Xolo",
+            "type":"camera"
         },
         {
             "product_id":9,
@@ -151,7 +159,8 @@
             "detail":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
             "verified":"True",
             "featured":"True",
-            "manufacturers":"jio"
+            "manufacturers":"jio",
+            "type":"phone"
         },
         {
             "product_id":10,
@@ -168,7 +177,8 @@
             "detail":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
             "verified":"True",
             "featured":"True",
-            "manufacturers":"micromax"
+            "manufacturers":"micromax",
+            "type":"phone"
         },
         {
             "product_id":11,
@@ -185,7 +195,8 @@
             "detail":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
             "verified":"True",
             "featured":"False",
-            "manufacturers":"karban mobiles"
+            "manufacturers":"karban mobiles",
+            "type":"tablet"
         },
         {
             "product_id":12,
@@ -202,7 +213,8 @@
             "detail":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
             "verified":"False",
             "featured":"Ture",
-            "manufacturers":"lava"
+            "manufacturers":"lava",
+            "type":"phone"
         },
         {
             "product_id":13,
@@ -219,7 +231,8 @@
             "detail":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
             "verified":"True",
             "featured":"False",
-            "manufacturers":"lava"
+            "manufacturers":"lava",
+            "type":"watch"
         },
         {
             "product_id":14,
@@ -236,7 +249,8 @@
             "detail":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
             "verified":"False",
             "featured":"True",
-            "manufacturers":"lava"
+            "manufacturers":"lava",
+            "type":"headphone"
         },
         {
             "product_id":15,
@@ -253,7 +267,8 @@
             "detail":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
             "verified":"True",
             "featured":"False",
-            "manufacturers":"micromax"
+            "manufacturers":"micromax",
+            "type":"laptop"
         },
         {
             "product_id":16,
@@ -270,7 +285,8 @@
             "detail":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
             "verified":"False",
             "featured":"True",
-            "manufacturers":"karban mobiles"
+            "manufacturers":"karban mobiles",
+            "type":"phone"
         },
         {
             "product_id":17,
@@ -287,7 +303,8 @@
             "detail":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
             "verified":"True",
             "featured":"False",
-            "manufacturers":"jio"
+            "manufacturers":"jio",
+            "type":"camera"
         }
 
     ],   
