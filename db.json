@@ -1,4 +1,4 @@
-{
+{   
     "products":[
         {
             "product_id":1,
@@ -350,5 +350,125 @@
             
         }
 
-    ]
+    ],
+
+    "allcontent":{
+        "searchbar":{
+            "id":1,
+            "searchbar-logo":{
+                "id":1,
+                "logo-url":"https://i.ibb.co/SNQ23Gh/brand-logo.png"
+            },
+
+            "inputfeild":["All category","Mobile","Tablets"],
+
+            "searchbar-icons":[
+                {
+                    "id":1,
+                    "content":"Profile",
+                    "icon-url":"https://i.ibb.co/VJd1HHC/profile.png"
+                },
+
+                {
+                    "id":2,
+                    "content":"Message",
+                    "icon-url":"https://i.ibb.co/QJyRTcK/message.png"
+                },
+
+                {
+                    "id":3,
+                    "content":"Orders",
+                    "icon-url":"https://i.ibb.co/ZgknSrq/orders.png"
+                },
+
+                {
+                    "id":4,
+                    "content":"My Cart",
+                    "icon-url":"https://i.ibb.co/MMJFH2v/cart.png"
+                }
+            ]
+        },
+
+        "navbar":{
+            "id":2,
+            "navbar-left":[
+                {   
+                    "id":1,
+                    "menu_icon":"https://i.ibb.co/TRB0PsH/menu.jpg"
+                },
+                {
+                    "id":2,
+                    "content":"All category"
+                },
+
+                {
+                    "id":3,
+                    "content":"Hot offers"
+                },
+
+                {
+                    "id":4,
+                    "content":"Gift boxes"
+                },
+
+                {
+                    "id":5,
+                    "content":"Projects"
+                },
+
+                {
+                    "id":6,
+                    "content":"Menu item"
+                },
+
+                {
+                    "id":7,
+                    "content":"Help",
+                    "value1":"Help1",
+                    "value2":"Help2"
+                }
+            ]
+
+            
+            
+        },
+
+        "emailcontent":{
+            "id":3,
+            "emailtitle":"Subscribe on our newsletter",
+            "emailsec":"Get daily news on upcoming offers from many suppliers all over the world",
+            "button":"Subscribe",
+            "palcevalue":"Email"
+        },
+
+        "footer":{
+            "id":4,
+            "footerleftup":{
+                "logo":"https://i.ibb.co/SNQ23Gh/brand-logo.png",
+                "content":"Best information about the company gies here but now lorem ipsum is"
+            },    
+            
+            "socialmedia":[
+                {"icon":"https://i.ibb.co/7GkK9vH/facebook.png"},
+                {"icon":"https://i.ibb.co/x5d8Hws/twitter.png"},
+                {"icon":"https://i.ibb.co/KL3F3HK/instagram.png"},
+                {"icon":"https://i.ibb.co/87ns1pM/linkedin.png"},
+                {"icon":"https://i.ibb.co/7RhtSdD/youtube.png"}                
+            ],
+
+            "footertext":[
+               {"content":["About","About Us","Find store","Categories","Blogs"]},
+               {"content":["Partnership","About Us","Find store","Categories","Blogs"]},
+               {"content":["Information","Help Center","Money Refund","Shipping","Contact us"]},
+               {"content":["For users","Login","Register","Settings","My Orders"]},
+               {"content":["Get app","https://i.ibb.co/hMN7b96/appstore.png","https://i.ibb.co/cYXWD07/googplay.png"]}
+            ],
+
+            "lastline":{
+                "year":"© 2023 Ecommerce.",
+                "country":[]
+            }
+        },
+        "mobilecontent":["https://i.ibb.co/mJ1xnCF/mobile-arrow.png","Mobile accessory","https://i.ibb.co/ncP1Rb8/mobile-cart.png","https://i.ibb.co/6DRHk2Z/mobile-profile.png"]       
+    }
 }
