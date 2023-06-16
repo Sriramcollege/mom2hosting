@@ -469,6 +469,8 @@
                 "country":[]
             }
         },
-        "mobilecontent":["https://i.ibb.co/DChsKbH/mobile-arrow-1.png","Mobile accessory","https://i.ibb.co/PZctgk2/mobile-cart-1.png","https://i.ibb.co/BTP3HRs/mobile-profile-1.png"]       
+        "mobilecontent":["https://i.ibb.co/DChsKbH/mobile-arrow-1.png","Mobile accessory","https://i.ibb.co/PZctgk2/mobile-cart-1.png","https://i.ibb.co/BTP3HRs/mobile-profile-1.png"],
+        
+        "dropdown":["English, USD","English, US","English, UK"]
     }
 }
